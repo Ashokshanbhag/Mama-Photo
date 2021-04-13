@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 30px;
+}
+
+#input{
+
+    border: none;
+    outline: none;
+    height: 40px;
+    background: linear-gradient(#4284f5,#083e9c)
+}
